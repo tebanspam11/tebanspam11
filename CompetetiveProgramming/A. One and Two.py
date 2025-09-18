@@ -8,7 +8,7 @@ def one_and_two():
     array = sys.stdin.readline().split()
     twocount = 0
 
-    #Segun el juez count("2") ocupa mas tiempo y memoria, se opta por recorrido del arreglo normal
+    #for i in array faster than count(2) according with judge
 
     for i in array:
       if i == "2":
