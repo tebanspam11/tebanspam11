@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=BD0000D4&text=Welcome%20to%20my%20GitHub!&fontAlign=50&animation=scaleIn&textBg=false&section=header&reversal=false"/>
-</p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&duration=2500&pause=2000&color=BD0000D4&center=true&width=435&lines=Hi!+I+am+Esteban+Barrera+Sanabria+%F0%9F%91%8B;Thanks+for+reaching+me+out;Get+to+know+more+about+me!"/>
