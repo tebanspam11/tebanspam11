@@ -55,6 +55,7 @@ I'm a passionate Systems and Software Engineer student focused on efficient, cle
 
 ## 🏆 Featured Repositories
 
-- [**IngeSoft I**](https://github.com/tebanspam11/Estamos-Meluk)  
+- [**IngeSoft I**](https://github.com/tebanspam11/Estamos-Meluk)
+- [**Competitive Programming**](https://github.com/tebanspam11/Estamos-Meluk)    
 
 **All projects are well-documented with clear README files.**
