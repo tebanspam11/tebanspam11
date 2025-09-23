@@ -1,4 +1,7 @@
-![Profile Banner](https://dummyimage.com/1200x300/4f46e5/ffffff&text=Welcome+to+My+GitHub+Profile)
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
 <h2 align="center">Hi! I am Esteban Barrera Sanabria 👋</h2>
 <p align="center" style="font-size:18px;">
@@ -7,11 +10,9 @@ I'm a passionate Systems and Software Engineer student focused on efficient, cle
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me  
 
 > 🔭 **CURRENTLY:** Completing my engineering degree and working on **Software Engineering projects** while learning advanced technologies, emphasized on data science  
-
----
 
 - 🌱 Continuously getting involved into Artificial Intelligence and other new systems.  
 - 🎨 I specifically enjoy creating **interactive UI, problem solving algorithms, and database implementations**.  
@@ -19,18 +20,19 @@ I'm a passionate Systems and Software Engineer student focused on efficient, cle
 
 ---
 
-## ⚡ Skills & Technologies
+## ⚡ Skills & Technologies  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![R (Statistics)](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 
 ---
 
@@ -53,9 +55,20 @@ I'm a passionate Systems and Software Engineer student focused on efficient, cle
 
 ---
 
-## 🏆 Featured Repositories
+## 🏆 Featured Repositories  
 
-- [**IngeSoft I**](https://github.com/tebanspam11/Estamos-Meluk)
-- [**Competitive Programming**](https://github.com/tebanspam11/Estamos-Meluk)    
+<p align="center">
+  <a href="https://github.com/tebanspam11/EstamosMeluk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tebanspam11&repo=Estamos-Meluk&theme=dark" />
+  </a>
+  <a href="https://github.com/tebanspam11/CompetitiveProgramming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tebanspam11&repo=Competitive-Programming&theme=dark" />
+  </a>
+</p>
 
-**All projects are well-documented with clear README files.**
+---
+
+<p align="center">
+  <i>✨ All projects are well-documented with clear README files ✨</i>
+</p>
+
