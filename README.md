@@ -78,7 +78,7 @@ I'm a passionate Systems and Software Engineer student focused on efficient, cle
 
 <p align="center">
   <a href="mailto:ebsanabria11@gmail.com"><img src="https://img.shields.io/badge/Email-ebsanabria11%40gmail.com-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tu-link"><img src="https://img.shields.io/badge/LinkedIn-Esteban%20Barrera-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/esteban-barrera-440ba7273/"><img src="https://img.shields.io/badge/LinkedIn-Esteban%20Barrera-blue?logo=linkedin&logoColor=white" /></a>
 </p>
 
 
