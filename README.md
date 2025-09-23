@@ -14,9 +14,9 @@ I'm a passionate Systems and Software Engineer student focused on efficient, cle
 
 > 🔭 **CURRENTLY:** Completing my engineering degree and working on **Software Engineering projects** while learning advanced technologies, emphasized on data science  
 
-- 🌱 Continuously getting involved into Artificial Intelligence and other new systems.  
+- 🌱 Continuously getting involved into Artificial Intelligence, Data Science and other new systems.  
 - 🎨 I specifically enjoy creating **interactive UI, problem solving algorithms, and database implementations**.  
-- 💬 Feel free to reach me via [Email](mailto:ebsanabria11@gmail.com).  
+- 💬 My goal is to bridge **data science and software engineering** to deliver efficient, real-world solutions.  
 
 ---
 
@@ -59,16 +59,26 @@ I'm a passionate Systems and Software Engineer student focused on efficient, cle
 
 <p align="center">
   <a href="https://github.com/tebanspam11/EstamosMeluk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tebanspam11&repo=Estamos-Meluk&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tebanspam11&repo=EstamosMeluk&theme=dark" />
   </a>
   <a href="https://github.com/tebanspam11/CompetitiveProgramming">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tebanspam11&repo=Competitive-Programming&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tebanspam11&repo=CompetitiveProgramming&theme=dark" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>✨ All projects are well-documented with clear README files ✨</i>
+  <a href="https://github.com/tebanspam11?tab=repositories">
+    🔎 Explore all my repositories →
+  </a>
 </p>
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="mailto:ebsanabria11@gmail.com"><img src="https://img.shields.io/badge/Email-ebsanabria11%40gmail.com-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tu-link"><img src="https://img.shields.io/badge/LinkedIn-Esteban%20Barrera-blue?logo=linkedin&logoColor=white" /></a>
+</p>
+
 
