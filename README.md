@@ -5,18 +5,17 @@
 </p>
 
 <p align="center" style="font-size:18px;">
-I'm a passionate Systems and Software Engineer student focused on efficient, clean, and visually engaging projects
+I'm a Systems and Software Engineering student focused on efficient algorithms and visually engaging software.
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
 
-> 🔭 **CURRENTLY:** Completing my engineering degree and working on **Software Engineering projects** while learning advanced technologies, emphasized on data science  
+> 🔭 **CURRENTLY:** Completing my engineering degree at Universidad Nacional de Colombia 
 
-- 🌱 Continuously getting involved into Artificial Intelligence, Data Science and other new systems.  
-- 🎨 I specifically enjoy creating **interactive UI, problem solving algorithms, and database implementations**.  
-- 💬 My goal is to bridge **data science and software engineering** to deliver efficient, real-world solutions.  
+- Continuously getting involved into Machine Learning, Data Science and Competitive Programming.  
+- I specifically enjoy creating **interactive UI, problem solving algorithms and database implementations**.  
 
 ---
 
