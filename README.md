@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" style="font-size:18px;">
-I'm a Systems and Software Engineering student focused on efficient algorithms and visually engaging software.
+I'm a Systems and Software Engineering student passionate about learning and driven by optimization to improve my problem-solving skills.
 </p>
 
 ---
@@ -28,7 +28,6 @@ I'm a Systems and Software Engineering student focused on efficient algorithms a
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R (Statistics)](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
 ## Databases
@@ -39,7 +38,7 @@ I'm a Systems and Software Engineering student focused on efficient algorithms a
 
 ## Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
@@ -55,11 +54,9 @@ I'm a Systems and Software Engineering student focused on efficient algorithms a
     <tr border="none">
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=tebanspam11&theme=dark&show_icons=true&count_private=true" />
-        <br></br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=tebanspam11&theme=dark&hide_border=false" /> 
       </td>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebanspam11&theme=dark&hide_border=false&langs_count=10" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebanspam11&theme=dark&hide_border=false&langs_count=5" />
       </td>
     </tr>
   </table>
