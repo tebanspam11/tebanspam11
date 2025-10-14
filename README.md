@@ -19,7 +19,7 @@ I'm a Systems and Software Engineering student passionate about learning and dri
 
 ---
 
-## ⚡ Skills & Technologies  
+## Skills & Technologies  
 
 ## Languages
 
@@ -65,7 +65,7 @@ I'm a Systems and Software Engineering student passionate about learning and dri
 
 ---
 
-## 🏆 Featured Repositories  
+## Featured Repositories  
 
 <p align="center">
   <a href="https://github.com/tebanspam11/EstamosMeluk">
