@@ -19,8 +19,6 @@ I'm a Systems and Software Engineering student passionate about learning and dri
 
 ---
 
-## Skills & Technologies  
-
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
